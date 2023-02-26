@@ -1,0 +1,23 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css);
+.gallery-container{
+    height: auto;
+   background-color: #d6d5ce;
+    display: flex;
+    flex-direction: column;
+    padding: 2em 4em;    
+}
+
+.cards-container{
+    /* display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    /* background-color: aqua; */
+}
+
+
+
+
